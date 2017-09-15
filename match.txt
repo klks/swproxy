@@ -1,0 +1,3 @@
+GET /Example1.htm,local_files/example1_response.htm
+GET /Example2.htm,local_files/example2_response.htm
+GET /Example3.htm,local_files/example3_response.htm
